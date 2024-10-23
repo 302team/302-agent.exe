@@ -74,7 +74,7 @@ function Main() {
           '-webkit-app-region': 'no-drag',
         }}
       >
-        <Link href="https://github.com/corbt/agent.exe" isExternal>
+        <Link href="https://github.com/302team/302-agent.exe" isExternal>
           <Button variant="ghost" size="sm" aria-label="GitHub" minW={8} p={0}>
             <FaGithub />
           </Button>
