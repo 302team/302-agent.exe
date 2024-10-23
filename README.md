@@ -1,3 +1,7 @@
+本版本已将api的请求地址指向了api.302.ai，下载后，只需要配置自己302后台的KEY即可
+
+-------------------------------------------------------------------
+
 Presenting **Agent.exe**: the easiest way to let Claude's new [computer use](https://www.anthropic.com/news/3-5-models-and-computer-use) capabilities take over your computer!
 
 <img width="387" alt="buy pizza" src="https://github.com/user-attachments/assets/c11cc8f1-6dcb-48f4-9d18-682f14edb77d">
@@ -10,10 +14,10 @@ I wanted to see how good Claude's new [computer use](https://www.anthropic.com/n
 
 ### Getting started
 
-1.  `git clone https://github.com/corbt/agent.exe`
+1.  `git clone https://github.com/302team/302-agent.exe`
 2.  `cd agent.exe`
 3.  `npm install`
-4.  `ANTHROPIC_API_KEY="<your-anthropic-api-key>" npm start`
+4.  `ANTHROPIC_API_KEY="<your-302-api-key>" npm start`
 5.  Prompt the model to do something interesting on your computer!
 
 ### Supported systems
