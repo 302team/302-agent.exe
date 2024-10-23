@@ -15,7 +15,7 @@ I wanted to see how good Claude's new [computer use](https://www.anthropic.com/n
 ### Getting started
 
 1.  `git clone https://github.com/302team/302-agent.exe`
-2.  `cd agent.exe`
+2.  `cd 302-agent.exe`
 3.  `npm install`
 4.  `ANTHROPIC_API_KEY="<your-302-api-key>" npm start`
 5.  Prompt the model to do something interesting on your computer!
